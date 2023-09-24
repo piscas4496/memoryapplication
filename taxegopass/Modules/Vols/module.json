@@ -1,0 +1,11 @@
+{
+    "name": "Vols",
+    "alias": "vols",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Vols\\Providers\\VolsServiceProvider"
+    ],
+    "files": []
+}
